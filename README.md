@@ -3,6 +3,8 @@ A simple example of how to send updates from your keras experiments to slack
 
 ![](assets/slack.png)
 
+![](assets/Slack_demo.gif)
+
 ## **Disclaimers:**
 1. This is _one_ of the ways to do this, and there are perhaps better ways to do this than what I've shown here.
 
