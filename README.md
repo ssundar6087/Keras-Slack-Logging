@@ -1,6 +1,7 @@
 # Keras-Slack-Logging
 A simple example of how to send updates from your keras experiments to slack 
 
+![](assets/slack.png)
 
 ## **Disclaimers:**
 1. This is _one_ of the ways to do this, and there are perhaps better ways to do this than what I've shown here.
@@ -15,3 +16,5 @@ I will be writing a blog post to accompany this notebook to walk through some of
 1. Setting up your slack workspace
 2. Creating a bot and a slack api token
 3. Possible Kaggle Integration
+
+
